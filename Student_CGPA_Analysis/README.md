@@ -22,9 +22,9 @@ This project is an interactive Power BI dashboard built to analyze student CGPA 
 
 ### Data View
 
-![Data View](screenshots/dataview.png)
+![Data View 1](screenshots/dataview1.png)
 
-![Data View](screenshots/dataview2.png)
+![Data View 2](screenshots/dataview2.png)
 
 
 
@@ -101,6 +101,6 @@ Additional calculated columns were created in Power BI using DAX:
 
 ## 👩‍💻 Author
 
-**Vaishnavi C**
+**Vaishnavi Chedudhupu**
 
 Aspiring Data Analyst
