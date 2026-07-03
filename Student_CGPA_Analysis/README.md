@@ -10,7 +10,7 @@ This project is an interactive Power BI dashboard built to analyze student CGPA 
 
 ### Main Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### Above Average Students
 
