@@ -180,6 +180,3 @@ The dashboard makes it easy to identify:
 **Vaishnavi Chedudhupu**
 
 Aspiring Data Analyst
-
-
-Linke
